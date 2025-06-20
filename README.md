@@ -38,3 +38,8 @@
 1. Запустите приложение:
    ```bash
    python source.py
+
+## Скрины интерфейса
+![image](https://github.com/user-attachments/assets/b68eb83f-ffb4-4aa6-aed8-846d0e2166ba)
+![image](https://github.com/user-attachments/assets/716a49d3-a39f-48d4-a4d2-09ab345e6b41)
+![image](https://github.com/user-attachments/assets/46e12652-e250-4fbd-a1bd-a02d0929c363)
